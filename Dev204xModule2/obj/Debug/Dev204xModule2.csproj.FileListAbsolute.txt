@@ -1,0 +1,5 @@
+c:\users\toks\documents\visual studio 2013\Projects\Dev204xModule2\Dev204xModule2\bin\Debug\Dev204xModule2.exe
+c:\users\toks\documents\visual studio 2013\Projects\Dev204xModule2\Dev204xModule2\bin\Debug\Dev204xModule2.pdb
+c:\users\toks\documents\visual studio 2013\Projects\Dev204xModule2\Dev204xModule2\obj\Debug\Dev204xModule2.csprojResolveAssemblyReference.cache
+c:\users\toks\documents\visual studio 2013\Projects\Dev204xModule2\Dev204xModule2\obj\Debug\Dev204xModule2.exe
+c:\users\toks\documents\visual studio 2013\Projects\Dev204xModule2\Dev204xModule2\obj\Debug\Dev204xModule2.pdb
